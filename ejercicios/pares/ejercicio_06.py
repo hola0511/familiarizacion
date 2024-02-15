@@ -7,5 +7,3 @@ def suma_lista(lista):
     return contador
 
 print(suma_lista(lista))
-
-## cantidad esperada de la lista actual es 1252

@@ -8,4 +8,3 @@ def calcular(radio):
 
 
 print(calcular(radio))
-
